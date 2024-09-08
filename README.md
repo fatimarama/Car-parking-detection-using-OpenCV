@@ -6,10 +6,10 @@ In urban areas, finding available parking spaces is often a time-consuming and f
 ## Objective
 The objective of this project is to create a real-time system that: 
 
-•	Detects available parking spaces in a parking lot using OpenCV. 
-•	Analyzes video stream captured by camera placed strategically around the parking lot. 
-•	Provides visual output highlighting free spaces and occupied spaces.
-•	Displays free parking count on screen.
+- Detects available parking spaces in a parking lot using OpenCV.
+- Analyzes video stream captured by camera placed strategically around the parking lot.
+- Provides visual output highlighting free spaces and occupied spaces.
+- Displays free parking count on screen.
 
 ## Tools and Technologies: 
 - Programming Language: Python 

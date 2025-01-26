@@ -1,7 +1,7 @@
 # Free Car Parking Space Detection Using OpenCV
 
 ## Introduction
-In urban areas, finding available parking spaces is often a time-consuming and frustrating task for drivers. To ease the problem, this project aims to develop a computer vision-based solution to detect free car parking spaces in a parking lot. By using OpenCV, the system will process real-time video streams of a parking lot and identify vacant spots, providing an efficient and automated approach to parking management.
+In urban areas, finding available parking spaces is often a time-consuming and frustrating task for drivers. To ease the problem, this project aims to develop a computer vision-based solution to detect free car parking spaces in a parking lot. By using OpenCV, the system will process video streams of a parking lot and identify vacant spots, providing an efficient and automated approach to parking management.
 
 ## Objective
 The objective of this project is to create a real-time system that: 

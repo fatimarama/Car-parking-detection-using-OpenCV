@@ -16,4 +16,4 @@ The objective of this project is to create a real-time system that:
 - Integrated Development Environment: PyCharm 
 - Computer Vision Libraries: OpenCV, CVZone
 
-This project will contribute towards an efficient and automated parking management solution by using computer vision techniques. With OpenCV's powerful image processing capabilities, the system will provide real-time detection of free parking spaces, reducing driver frustration and improving parking lot efficiency.
+This project will contribute towards an efficient and automated parking management solution by using computer vision techniques. 
